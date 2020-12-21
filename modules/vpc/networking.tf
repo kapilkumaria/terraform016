@@ -57,19 +57,19 @@ output "vpc_id" {
 }
 
 
-output "subnet_pub_1a_id" {
+output "public-1a" {
    value = aws_subnet.public1a.id
 }
 
-output "subnet_pub_1b_id" {
+output "public-1b" {
    value = aws_subnet.public1b.id
 }
 
-output "subnet_pri_1a_id" {
+output "private-1a" {
    value = aws_subnet.private1a.id
 }
 
-output "subnet_pri_1b_id" {
+output "private-1b" {
    value = aws_subnet.private1b.id
 }
 

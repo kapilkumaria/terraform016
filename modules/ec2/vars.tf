@@ -11,10 +11,10 @@ variable "instance_type" {
 }
 
 
-variable "public1a_subnet" {}
+variable "public-1a" {}
 
-variable "public1b_subnet" {}
+variable "public-1b" {}
 
-variable "private1a_subnet" {}
+variable "private-1a" {}
 
-variable "private1b_subnet" {}
+variable "private-1b" {}

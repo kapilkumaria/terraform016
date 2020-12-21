@@ -23,13 +23,13 @@ variable "tenancy" {
 
 variable "vpc_id" {}
 
-variable "subnet_pub_1a_id" {}
+#variable "subnet_pub_1a_id" {}
 
-variable "subnet_pub_1b_id" {}
+#variable "subnet_pub_1b_id" {}
 
-variable "subnet_pri_1a_id" {}
+#variable "subnet_pri_1a_id" {}
 
-variable "subnet_pri_1b_id" {}
+#variable "subnet_pri_1b_id" {}
 
 
 ################ Variables for Subnets CIDR ####################
